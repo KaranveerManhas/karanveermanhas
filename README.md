@@ -1,65 +1,25 @@
-# Hi, I'm Karanveer Singh 👋
+# Karanveer Singh
 
-Full Stack Developer | Automation Systems | Desktop/Web Apps
+Full-stack developer building high-performance automation systems and desktop applications.
 
-I build automation tools and full-stack applications with a focus on performance, scalability, and real-world problem-solving.
+## 🎯 Current Focus
 
----
+**BotDaddy** — A desktop automation platform for coordinating multi-account game automation at scale.
 
-## 🚀 Projects
+- **190+ concurrent accounts** with worker queues and state machine orchestration
+- **Real-time monitoring** via WebSocket events + Next.js frontend
+- **LDPlayer + ADB integration** for emulator control and screenshot processing
+- **FastAPI backend** with deterministic error recovery and action scheduling
 
-### BotDaddy
-
-A desktop automation platform designed to manage and run multiple game accounts efficiently using emulator control and background workers.
-
-* Multi-account orchestration with worker queues
-* Emulator integration (LDPlayer + ADB)
-* FastAPI backend with Next.js + Electron frontend
-* State machine-based automation engine
-* Planned: OpenCV-based visual detection
-
----
-
-### Employee Review System
-
-Role-based employee performance review platform with authentication and structured feedback flows.
-
-* Built with Node.js, Express, and MongoDB
-* Secure authentication and role management
-* Clean and scalable backend architecture
-
----
+Built with **Electron**, **Next.js 16**, **React 19**, and **Python** FastAPI.
 
 ## 🛠 Tech Stack
 
-**Frontend**
-
-* React, Next.js, Tailwind CSS
-
-**Backend**
-
-* Node.js, FastAPI
-
-**Desktop & Automation**
-
-* Electron, PyWebview, ADB
-
-**Database & Tools**
-
-* PostgreSQL, Docker, Git
-
----
-
-## 📈 Currently
-
-* Building scalable automation systems (queues, workers, state machines)
-* Exploring computer vision with OpenCV for bot detection systems
-
----
+- **Frontend**: React, Next.js, Tailwind CSS, Zustand
+- **Backend**: FastAPI, Python async, Worker queues
+- **Desktop**: Electron (Windows)
+- **Automation**: ADB, LDPlayer, Computer vision
 
 ## 📫 Contact
 
-* Email: [manhaskaranveer@gmail.com](mailto:manhaskaranveer@gmail.com)
-* LinkedIn: https://linkedin.com/in/manhaskaranveer
-
----
+**Email**: manhaskaranveer@gmail.com | **LinkedIn**: https://linkedin.com/in/manhaskaranveer
